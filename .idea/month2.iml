@@ -6,5 +6,7 @@
     </content>
     <orderEntry type="jdk" jdkName="Python 3.14 (month2)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="PythonProject" />
+    <orderEntry type="module" module-name="PyCharmMiscProject" />
   </component>
 </module>
